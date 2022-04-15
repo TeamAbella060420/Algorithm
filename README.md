@@ -1,2 +1,3 @@
 # Algorithm
  
+1. Sorting and Searching - To help further your understanding of algorithms, this course is going to look at two categories: sorting algorithms and searching algorithms. You could argue these are the easiest kinds of algorithms to learn. But in learning how these algorithms are designed, we'll cover useful concepts like "recursion" and "divide and conquer" that are used in many other sorts of algorithms, and can even be used to create brand new ones.
